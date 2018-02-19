@@ -1,0 +1,6 @@
+c:\users\gns91\documents\visual studio 2010\Projects\참조에의한매개변수전달\참조에의한매개변수전달\bin\Debug\참조에의한매개변수전달.exe
+c:\users\gns91\documents\visual studio 2010\Projects\참조에의한매개변수전달\참조에의한매개변수전달\bin\Debug\참조에의한매개변수전달.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\참조에의한매개변수전달\참조에의한매개변수전달\obj\x86\Debug\참조에의한매개변수전달.exe
+c:\users\gns91\documents\visual studio 2010\Projects\참조에의한매개변수전달\참조에의한매개변수전달\obj\x86\Debug\참조에의한매개변수전달.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\매개변수\참조에의한매개변수전달\참조에의한매개변수전달\obj\x86\Debug\참조에의한매개변수전달.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\매개변수\참조에의한매개변수전달\참조에의한매개변수전달\obj\x86\Debug\참조에의한매개변수전달.pdb

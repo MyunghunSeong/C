@@ -1,0 +1,4 @@
+c:\users\gns91\documents\visual studio 2010\Projects\얇은복사와깊은복사\얇은복사와깊은복사\bin\Debug\얇은복사와깊은복사.exe
+c:\users\gns91\documents\visual studio 2010\Projects\얇은복사와깊은복사\얇은복사와깊은복사\bin\Debug\얇은복사와깊은복사.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\얇은복사와깊은복사\얇은복사와깊은복사\obj\x86\Debug\얇은복사와깊은복사.exe
+c:\users\gns91\documents\visual studio 2010\Projects\얇은복사와깊은복사\얇은복사와깊은복사\obj\x86\Debug\얇은복사와깊은복사.pdb

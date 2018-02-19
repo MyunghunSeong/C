@@ -1,0 +1,6 @@
+c:\users\gns91\documents\visual studio 2010\Projects\명명된매개변수\명명된매개변수\bin\Debug\명명된매개변수.exe
+c:\users\gns91\documents\visual studio 2010\Projects\명명된매개변수\명명된매개변수\bin\Debug\명명된매개변수.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\명명된매개변수\명명된매개변수\obj\x86\Debug\명명된매개변수.exe
+c:\users\gns91\documents\visual studio 2010\Projects\명명된매개변수\명명된매개변수\obj\x86\Debug\명명된매개변수.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\매개변수\명명된매개변수\명명된매개변수\obj\x86\Debug\명명된매개변수.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\매개변수\명명된매개변수\명명된매개변수\obj\x86\Debug\명명된매개변수.pdb

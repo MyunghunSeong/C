@@ -1,0 +1,4 @@
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\클래스\상속과클래스의형식변환(is와as)\상속과클래스의형식변환(is와as)\obj\x86\Debug\상속과클래스의형식변환(is와as).exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\클래스\상속과클래스의형식변환(is와as)\상속과클래스의형식변환(is와as)\obj\x86\Debug\상속과클래스의형식변환(is와as).pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\클래스\상속과클래스의형식변환(is와as)\상속과클래스의형식변환(is와as)\bin\Debug\상속과클래스의형식변환(is와as).exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\클래스\상속과클래스의형식변환(is와as)\상속과클래스의형식변환(is와as)\bin\Debug\상속과클래스의형식변환(is와as).pdb

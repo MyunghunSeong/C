@@ -1,0 +1,8 @@
+c:\users\gns91\documents\visual studio 2010\Projects\분할클래스\분할클래스\bin\Debug\분할클래스.exe
+c:\users\gns91\documents\visual studio 2010\Projects\분할클래스\분할클래스\bin\Debug\분할클래스.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\분할클래스\분할클래스\obj\x86\Debug\분할클래스.exe
+c:\users\gns91\documents\visual studio 2010\Projects\분할클래스\분할클래스\obj\x86\Debug\분할클래스.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\클래스\분할클래스\분할클래스\obj\x86\Debug\분할클래스.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\클래스\분할클래스\분할클래스\obj\x86\Debug\분할클래스.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\클래스\분할클래스\분할클래스\bin\Debug\분할클래스.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\클래스\분할클래스\분할클래스\bin\Debug\분할클래스.pdb

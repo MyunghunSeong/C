@@ -1,0 +1,4 @@
+c:\users\gns91\documents\visual studio 2010\Projects\배열의컬렉션\bin\Debug\배열의컬렉션.exe
+c:\users\gns91\documents\visual studio 2010\Projects\배열의컬렉션\bin\Debug\배열의컬렉션.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\배열의컬렉션\obj\x86\Debug\배열의컬렉션.exe
+c:\users\gns91\documents\visual studio 2010\Projects\배열의컬렉션\obj\x86\Debug\배열의컬렉션.pdb

@@ -1,0 +1,6 @@
+c:\users\gns91\documents\visual studio 2010\Projects\추상클래스\bin\Debug\추상클래스.exe
+c:\users\gns91\documents\visual studio 2010\Projects\추상클래스\bin\Debug\추상클래스.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\추상클래스\obj\x86\Debug\추상클래스.exe
+c:\users\gns91\documents\visual studio 2010\Projects\추상클래스\obj\x86\Debug\추상클래스.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\인터페이스\추상클래스\obj\x86\Debug\추상클래스.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\인터페이스\추상클래스\obj\x86\Debug\추상클래스.pdb

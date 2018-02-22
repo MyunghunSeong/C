@@ -1,0 +1,4 @@
+c:\users\gns91\documents\visual studio 2010\Projects\인터페이스의사용2\bin\Debug\인터페이스의사용2.exe
+c:\users\gns91\documents\visual studio 2010\Projects\인터페이스의사용2\bin\Debug\인터페이스의사용2.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\인터페이스의사용2\obj\x86\Debug\인터페이스의사용2.exe
+c:\users\gns91\documents\visual studio 2010\Projects\인터페이스의사용2\obj\x86\Debug\인터페이스의사용2.pdb

@@ -1,0 +1,4 @@
+c:\users\gns91\documents\visual studio 2010\Projects\예외던지기(throw문)\bin\Debug\예외던지기(throw문).exe
+c:\users\gns91\documents\visual studio 2010\Projects\예외던지기(throw문)\bin\Debug\예외던지기(throw문).pdb
+c:\users\gns91\documents\visual studio 2010\Projects\예외던지기(throw문)\obj\x86\Debug\예외던지기(throw문).exe
+c:\users\gns91\documents\visual studio 2010\Projects\예외던지기(throw문)\obj\x86\Debug\예외던지기(throw문).pdb

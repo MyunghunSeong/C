@@ -1,0 +1,4 @@
+c:\users\gns91\documents\visual studio 2010\Projects\델리게이트의사용\bin\Debug\델리게이트의사용.exe
+c:\users\gns91\documents\visual studio 2010\Projects\델리게이트의사용\bin\Debug\델리게이트의사용.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\델리게이트의사용\obj\x86\Debug\델리게이트의사용.exe
+c:\users\gns91\documents\visual studio 2010\Projects\델리게이트의사용\obj\x86\Debug\델리게이트의사용.pdb

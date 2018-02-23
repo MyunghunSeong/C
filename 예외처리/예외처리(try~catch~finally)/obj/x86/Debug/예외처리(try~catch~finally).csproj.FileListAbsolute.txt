@@ -1,0 +1,4 @@
+c:\Users\gns91\documents\visual studio 2010\Projects\예외처리(try~catch~finally)\bin\Debug\예외처리(try~catch~finally).exe
+c:\Users\gns91\documents\visual studio 2010\Projects\예외처리(try~catch~finally)\bin\Debug\예외처리(try~catch~finally).pdb
+c:\Users\gns91\documents\visual studio 2010\Projects\예외처리(try~catch~finally)\obj\x86\Debug\예외처리(try~catch~finally).exe
+c:\Users\gns91\documents\visual studio 2010\Projects\예외처리(try~catch~finally)\obj\x86\Debug\예외처리(try~catch~finally).pdb

@@ -1,0 +1,8 @@
+c:\users\gns91\documents\visual studio 2010\Projects\델리게이트와이벤트\bin\Debug\델리게이트와이벤트.exe
+c:\users\gns91\documents\visual studio 2010\Projects\델리게이트와이벤트\bin\Debug\델리게이트와이벤트.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\델리게이트와이벤트\obj\x86\Debug\델리게이트와이벤트.exe
+c:\users\gns91\documents\visual studio 2010\Projects\델리게이트와이벤트\obj\x86\Debug\델리게이트와이벤트.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\델리게이트\델리게이트와이벤트\obj\x86\Debug\델리게이트와이벤트.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\델리게이트\델리게이트와이벤트\obj\x86\Debug\델리게이트와이벤트.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\델리게이트\델리게이트와이벤트\bin\Debug\델리게이트와이벤트.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\델리게이트\델리게이트와이벤트\bin\Debug\델리게이트와이벤트.pdb

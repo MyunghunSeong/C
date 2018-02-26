@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "델리게이트체인", "델리게이트체인.csproj", "{12ED29E3-C247-45BA-BEBF-51E394281C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12ED29E3-C247-45BA-BEBF-51E394281C13}.Debug|x86.ActiveCfg = Debug|x86
+		{12ED29E3-C247-45BA-BEBF-51E394281C13}.Debug|x86.Build.0 = Debug|x86
+		{12ED29E3-C247-45BA-BEBF-51E394281C13}.Release|x86.ActiveCfg = Release|x86
+		{12ED29E3-C247-45BA-BEBF-51E394281C13}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

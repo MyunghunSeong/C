@@ -1,0 +1,4 @@
+c:\users\gns91\documents\visual studio 2010\Projects\익명메소드\bin\Debug\익명메소드.exe
+c:\users\gns91\documents\visual studio 2010\Projects\익명메소드\bin\Debug\익명메소드.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\익명메소드\obj\x86\Debug\익명메소드.exe
+c:\users\gns91\documents\visual studio 2010\Projects\익명메소드\obj\x86\Debug\익명메소드.pdb

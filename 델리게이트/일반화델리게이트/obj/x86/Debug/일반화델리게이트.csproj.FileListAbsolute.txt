@@ -1,0 +1,6 @@
+c:\users\gns91\documents\visual studio 2010\Projects\일반화델리게이트\bin\Debug\일반화델리게이트.exe
+c:\users\gns91\documents\visual studio 2010\Projects\일반화델리게이트\bin\Debug\일반화델리게이트.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\일반화델리게이트\obj\x86\Debug\일반화델리게이트.exe
+c:\users\gns91\documents\visual studio 2010\Projects\일반화델리게이트\obj\x86\Debug\일반화델리게이트.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\델리게이트\일반화델리게이트\obj\x86\Debug\일반화델리게이트.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\델리게이트\일반화델리게이트\obj\x86\Debug\일반화델리게이트.pdb

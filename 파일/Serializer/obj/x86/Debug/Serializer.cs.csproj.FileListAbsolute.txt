@@ -1,0 +1,5 @@
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\Serializer.cs\bin\Debug\Serializer.cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\Serializer.cs\bin\Debug\Serializer.cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\Serializer.cs\obj\x86\Debug\Serializer.cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\Serializer.cs\obj\x86\Debug\Serializer.cs.pdb
+C:\Users\gns91\documents\visual studio 2010\Projects\Serializer.cs\obj\x86\Debug\Serializer.cs.csprojResolveAssemblyReference.cache

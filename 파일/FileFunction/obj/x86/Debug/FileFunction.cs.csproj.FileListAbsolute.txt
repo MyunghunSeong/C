@@ -1,0 +1,8 @@
+c:\users\gns91\documents\visual studio 2010\Projects\FileFunction.cs\bin\Debug\FileFunction.cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\FileFunction.cs\bin\Debug\FileFunction.cs.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\FileFunction.cs\obj\x86\Debug\FileFunction.cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\FileFunction.cs\obj\x86\Debug\FileFunction.cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\파일\FileFunction.cs\obj\x86\Debug\FileFunction.cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\파일\FileFunction.cs\obj\x86\Debug\FileFunction.cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\C#\파일\FileFunction\obj\x86\Debug\FileFunction.cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\C#\파일\FileFunction\obj\x86\Debug\FileFunction.cs.pdb

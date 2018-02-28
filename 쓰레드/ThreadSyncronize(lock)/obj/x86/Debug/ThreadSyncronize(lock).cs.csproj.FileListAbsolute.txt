@@ -1,0 +1,10 @@
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(lock).cs\bin\Debug\ThreadSyncronize(lock).cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(lock).cs\bin\Debug\ThreadSyncronize(lock).cs.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(lock).cs\obj\x86\Debug\ThreadSyncronize(lock).cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(lock).cs\obj\x86\Debug\ThreadSyncronize(lock).cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(lock).cs\obj\x86\Debug\ThreadSyncronize(lock).cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(lock).cs\obj\x86\Debug\ThreadSyncronize(lock).cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(lock)\obj\x86\Debug\ThreadSyncronize(lock).cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(lock)\obj\x86\Debug\ThreadSyncronize(lock).cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(lock)\bin\Debug\ThreadSyncronize(lock).cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(lock)\bin\Debug\ThreadSyncronize(lock).cs.pdb

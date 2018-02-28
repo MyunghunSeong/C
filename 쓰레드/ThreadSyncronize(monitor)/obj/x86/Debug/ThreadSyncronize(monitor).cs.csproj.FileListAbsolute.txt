@@ -1,0 +1,6 @@
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(monitor).cs\bin\Debug\ThreadSyncronize(monitor).cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(monitor).cs\bin\Debug\ThreadSyncronize(monitor).cs.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(monitor).cs\obj\x86\Debug\ThreadSyncronize(monitor).cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(monitor).cs\obj\x86\Debug\ThreadSyncronize(monitor).cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(monitor).cs\obj\x86\Debug\ThreadSyncronize(monitor).cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(monitor).cs\obj\x86\Debug\ThreadSyncronize(monitor).cs.pdb

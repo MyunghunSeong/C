@@ -1,0 +1,10 @@
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadStart.cs\bin\Debug\ThreadStart.cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadStart.cs\bin\Debug\ThreadStart.cs.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadStart.cs\obj\x86\Debug\ThreadStart.cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadStart.cs\obj\x86\Debug\ThreadStart.cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadStart.cs\obj\x86\Debug\ThreadStart.cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadStart.cs\obj\x86\Debug\ThreadStart.cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadStart\obj\x86\Debug\ThreadStart.cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadStart\obj\x86\Debug\ThreadStart.cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadStart\bin\Debug\ThreadStart.cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadStart\bin\Debug\ThreadStart.cs.pdb

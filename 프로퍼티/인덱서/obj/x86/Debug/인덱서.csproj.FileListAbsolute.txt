@@ -1,0 +1,4 @@
+c:\users\gns91\documents\visual studio 2010\Projects\인덱서\bin\Debug\인덱서.exe
+c:\users\gns91\documents\visual studio 2010\Projects\인덱서\bin\Debug\인덱서.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\인덱서\obj\x86\Debug\인덱서.exe
+c:\users\gns91\documents\visual studio 2010\Projects\인덱서\obj\x86\Debug\인덱서.pdb

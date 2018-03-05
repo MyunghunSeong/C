@@ -1,0 +1,6 @@
+c:\users\gns91\documents\visual studio 2010\Projects\TaskParallel\bin\Debug\TaskParallel.exe
+c:\users\gns91\documents\visual studio 2010\Projects\TaskParallel\bin\Debug\TaskParallel.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\TaskParallel\obj\x86\Debug\TaskParallel.exe
+c:\users\gns91\documents\visual studio 2010\Projects\TaskParallel\obj\x86\Debug\TaskParallel.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\TaskParallel\obj\x86\Debug\TaskParallel.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\TaskParallel\obj\x86\Debug\TaskParallel.pdb

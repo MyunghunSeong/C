@@ -1,0 +1,6 @@
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(Advanced_Monitor).cs\bin\Debug\ThreadSyncronize(Advanced_Monitor).cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(Advanced_Monitor).cs\bin\Debug\ThreadSyncronize(Advanced_Monitor).cs.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(Advanced_Monitor).cs\obj\x86\Debug\ThreadSyncronize(Advanced_Monitor).cs.exe
+c:\users\gns91\documents\visual studio 2010\Projects\ThreadSyncronize(Advanced_Monitor).cs\obj\x86\Debug\ThreadSyncronize(Advanced_Monitor).cs.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(Advanced_Monitor)\obj\x86\Debug\ThreadSyncronize(Advanced_Monitor).cs.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\ThreadSyncronize(Advanced_Monitor)\obj\x86\Debug\ThreadSyncronize(Advanced_Monitor).cs.pdb

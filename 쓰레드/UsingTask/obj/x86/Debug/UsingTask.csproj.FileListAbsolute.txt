@@ -1,0 +1,4 @@
+c:\users\gns91\documents\visual studio 2010\Projects\UsingTask\bin\Debug\UsingTask.exe
+c:\users\gns91\documents\visual studio 2010\Projects\UsingTask\bin\Debug\UsingTask.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\UsingTask\obj\x86\Debug\UsingTask.exe
+c:\users\gns91\documents\visual studio 2010\Projects\UsingTask\obj\x86\Debug\UsingTask.pdb

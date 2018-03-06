@@ -1,0 +1,9 @@
+c:\users\gns91\documents\visual studio 2010\Projects\Task_Result\bin\Debug\Task_Result.exe
+c:\users\gns91\documents\visual studio 2010\Projects\Task_Result\bin\Debug\Task_Result.pdb
+c:\users\gns91\documents\visual studio 2010\Projects\Task_Result\obj\x86\Debug\Task_Result.exe
+c:\users\gns91\documents\visual studio 2010\Projects\Task_Result\obj\x86\Debug\Task_Result.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\Task_Result\obj\x86\Debug\Task_Result.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\Task_Result\obj\x86\Debug\Task_Result.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\Task_Result\bin\Debug\Task_Result.exe
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\Task_Result\bin\Debug\Task_Result.pdb
+C:\Users\gns91\Documents\Visual Studio 2010\Projects\쓰레드\Task_Result\obj\x86\Debug\Task_Result.csprojResolveAssemblyReference.cache
